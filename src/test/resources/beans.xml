@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans>
+    <bean id="me" class="com.github.gyumeijie.containerx.demo.Developer">
+        <property name="name" value="Gyumeijie"/>
+        <property name="location" value="Hangzhou, China"/>
+    </bean>
+
+    <bean id="myFriendOne" class="com.github.gyumeijie.containerx.demo.Developer">
+        <property name="name" value="yebokang"/>
+        <property name="location" value="Hangzhou, China"/>
+    </bean>
+
+    <bean id="myFriendTwo" class="com.github.gyumeijie.containerx.demo.Developer">
+        <property name="name" value="yehengxuan"/>
+        <property name="location" value="Hangzhou, China"/>
+    </bean>
+</beans>
