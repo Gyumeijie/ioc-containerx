@@ -3,7 +3,7 @@ The `ioc-containerx` is a simple container for ioc, and use `xml` to configure b
 
 ![](https://raw.githubusercontent.com/Gyumeijie/assets/master/ioc-containerx/ioc.png)
 
-## Usuage
+## Usage
 
 1. configurations file: `beans.xml`
 
